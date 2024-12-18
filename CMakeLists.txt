@@ -13,7 +13,6 @@ add_executable(goldenratiopyramid goldenratiopyramid.c)
 target_link_libraries(goldenratiopyramid
     ${SDL2_LIBRARIES}
     SDL2_image::SDL2_image
-    m
 )
 
 # Set compiler flags if needed
