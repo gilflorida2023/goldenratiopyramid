@@ -20,7 +20,7 @@ This codebase draws a pyramid to the screen that adheres to the proportion: 1, s
 	$ make run 
 
 ### prerequisites
- sudo apt-get install  libsdl2-dev libsdl2-image-dev -y
+ 	sudo apt-get install  libsdl2-dev libsdl2-image-dev -y
 
 
  
